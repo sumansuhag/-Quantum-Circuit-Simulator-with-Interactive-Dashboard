@@ -28,7 +28,6 @@ pip install qiskit matplotlib streamlit
    cd Quantum-Circuit-Simulator
    ```
 2. Open the Google Colab Notebook:
-   ```sh
   https://colab.research.google.com/drive/197roa6CBa1UPk-zA6SuyNlkj9EY8Gb3Q?authuser=0#scrollTo=Oqavgxqlexn0
    ```
 Code Structure
